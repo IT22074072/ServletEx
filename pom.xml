@@ -26,9 +26,10 @@
     <!-- Tomcat Embedded Core -->
     <dependency>
       <groupId>org.apache.tomcat.embed</groupId>
-      <artifactId>tomcat-embed-core</artifactId>
+      <artifactId>tomcat-embed-websocket</artifactId>
       <version>10.1.14</version>
     </dependency>
+
 
     <!-- JUnit for Testing -->
     <dependency>
